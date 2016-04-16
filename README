@@ -1,6 +1,0 @@
-1. Dependencies:
-	- slightly modified TinyXml (included)
-	- zlib 1.2.3 (included)
-	
-2. Building
-	- Make sure to uncomment "#define EM4_DELUXE" in main.cpp, when building for Emergency 4 Deluxe
